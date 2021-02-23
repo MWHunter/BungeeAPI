@@ -1,0 +1,4 @@
+name: ServerManager
+main: org.abyssmc.servermanager.ServerManager
+version: 1.0
+author: DefineOutside
